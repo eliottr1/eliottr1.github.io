@@ -1,0 +1,40 @@
+#OverviewText1{
+  width: 550px;
+  height: 350px;
+  position: absolute;
+  top: 50px;
+  left: 1550px;
+}
+#OverviewText2{
+  width: 550px;
+  height: 350px;
+  position: absolute;
+  top: 395px;
+  left: 1550px;
+}
+#OverviewText3{
+  width: 550px;
+  height: 350px;
+  position: absolute;
+  top: 695px;
+  left: 1550px;
+}#OverviewText4{
+  color ="blue"
+  width: 510px;
+  height: 340px;
+  position: absolute;
+  top: -5px;
+  left: 727px;
+}
+#content{
+  padding-top:250px;
+}
+body {
+background-color:rgb(183,217,255)
+}
+#OverviewText5{
+  width: 550px;
+  height: 350px;
+  position: absolute;
+  top: 695px;
+  left: 1000px;
